@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nimish Chug</h1>
+<h1 align="center">Hi 👋, I'm Nimish CHug</h1>
 <h3 align="center">Third-Year Computer Engineering Student | Aspiring AI/ML Enthusiast</h3>
+
+- 🔭 Currently Working on projects that apply machine learning techniques to solve real-world problems [.](.)
+
+- 🌱 Continuously learning and improving my coding skills in Python and other relevant technologies **.**
+
+- 👨‍💻 Working on projects that apply machine learning techniques to solve real-world problems [.](.)
+
+- 📫 How to reach me **chug.nimish@gmail.com**
+
+- ⚡ Fun fact :Besides coding, I'm a gaming enthusiast and mastering new strategies. From RPGs to Console games, I enjoy the challenge and the creativity they inspire! **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nimish-chug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimish-chug" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nimishchug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimishchug" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimish-chug-48459726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimish-chug-48459726b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nimishchug" target="blank"><img align="center" src="https://raw.githubusercontent.com/<rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimishchug" height="30" width="40" /></a>
+<a href="mailto:chug.nimish@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="chug.nimish@gmail.com" height="30" width="40" /></a><a href="mailto:chug.nimish@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="chug.nimish@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
