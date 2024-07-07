@@ -11,11 +11,12 @@
 
 - ⚡ Fun fact :Besides coding, I'm a gaming enthusiast and mastering new strategies. From RPGs to Console games, I enjoy the challenge and the creativity they inspire! **.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimish-chug-48459726b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimish-chug-48459726b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nimishchug" target="blank"><img align="center" src="https://raw.githubusercontent.com/<rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimishchug" height="30" width="40" /></a>
-<a href="mailto:chug.nimish@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="chug.nimish@gmail.com" height="30" width="40" /></a><a href="mailto:chug.nimish@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="chug.nimish@gmail.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nimishchug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimishchug" height="30" width="40" /></a>
+<a href="mailto:chug.nimish@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chug.nimish@gmail.com" height="30" width="60" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
