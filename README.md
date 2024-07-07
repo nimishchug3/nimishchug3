@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimish CHug</h1>
+<h1 align="center">Hi 👋, I'm Nimish Chug</h1>
 <h3 align="center">Third-Year Computer Engineering Student | Aspiring AI/ML Enthusiast</h3>
 
 - 🔭 Currently Working on projects that apply machine learning techniques to solve real-world problems [.](.)
